@@ -7,7 +7,7 @@ in Tampere University.
 This is a simple graphic user interface for an interactive Address book. The
 assignment was to create a simple GUI with tkinter and the given materials.
 
-Check the README.txt -file for acknowledged flaws and further
+Check the README.md -file for acknowledged flaws and further
 development ideas.
 
 --- SUMMARY ---
